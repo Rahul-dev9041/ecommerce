@@ -5,6 +5,7 @@ const data = {
         category:"Shirts",
         images: "/images/p1.jpg",
         price: 120,
+        countInStock: 10,
         brand: "Nike",
         rating:4.5,
         numReview:11,
@@ -16,6 +17,7 @@ const data = {
         category:"Shirts",
         images: "/images/p2.jpg",
         price: 100,
+        countInStock: 20,
         brand: "Adidas",
         rating:4.0,
         numReview:43,
@@ -27,6 +29,7 @@ const data = {
         category:"Shirts",
         images: "/images/p3.jpg",
         price: 220,
+        countInStock: 0,
         brand: "Lacoste",
         rating:5.0,
         numReview:43,
@@ -38,6 +41,7 @@ const data = {
         category:"Pants",
         images: "/images/p4.jpg",
         price: 134.50,
+        countInStock: 15,
         brand: "Nike",
         rating:4.5,
         numReview:12,
@@ -49,6 +53,7 @@ const data = {
         category:"Pants",
         images: "/images/p5.jpg",
         price: 230,
+        countInStock: 5,
         brand: "Puma",
         rating:4.0,
         numReview:10,
@@ -60,6 +65,7 @@ const data = {
         category:"Pants",
         images: "/images/p6.jpg",
         price: 125,
+        countInStock: 12,
         brand: "Adidas",
         rating:4.5,
         numReview:15,
@@ -69,4 +75,4 @@ const data = {
     ]
 } 
 
-export default data;
+export default data; 
